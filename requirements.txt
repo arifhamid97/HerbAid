@@ -1,0 +1,8 @@
+streamlit
+transformers
+langchain-openai
+langchain-community
+langchain-huggingface
+python-dotenv
+pillow
+torch
